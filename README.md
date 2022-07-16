@@ -8,7 +8,7 @@ built and create simple e-commerce web app contain (`user signin and register`, 
 
 |  tools                  |  Description                                             |
 | ----------------------- |  ------------------------------------------------------- |
-| `express`               |  node framework                                          |
+| `express`               |  nodejs framework                                          |
 | `monogodb`              |  Database to store document-based data                   |
 | `cors`                  |  allows a server to indicate any origins                 |
 | `mongoose`              |  MongoDB object modeling for Node.js                     |
